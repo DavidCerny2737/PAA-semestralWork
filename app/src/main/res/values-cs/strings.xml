@@ -1,0 +1,52 @@
+<resources>
+
+    <string name="app_name">Výživový zápisník</string>
+
+    <!-- Titles -->
+    <string name="title_item_detail">Detail jídla</string>
+    <string name="activity.main.title">Výživový zápisník</string>
+    <string name="activity.diary.title">Diář</string>
+    <string name="activity.diary.detail.title">Detail jídla</string>
+    <string name="activity.settings.detail.title">Nastavení</string>
+
+    <!-- Buttons -->
+    <string name="menu.search.title">Hledat</string>
+    <string name="menu.history.title">Diář</string>
+    <string name="menu.settings.title">Nastavení</string>
+    <string name="food.list.button.next_page"><u>Další strana</u></string>
+    <string name="food.add.dialog.confirm">Přidat</string>
+    <string name="food.add.dialog.reject">Zavřít</string>
+    <string name="u.sure.dialog.confirm">Ano</string>
+    <string name="u.sure.dialog.reject">Ne</string>
+
+    <!-- Labels -->
+    <string name="main.activity.title">Vítejte do výživového zápisníku!</string>
+    <string name="main.activity.label">Použijte menu pro navigaci aplikací</string>
+    <string name="menu.search.query.hint.label">Vyhledejte Vaše jídlo</string>
+    <string name="food.list.category.label">Kategorie:&#160;</string>
+    <string name="food.list.inserted.label">Přidáno:&#160;</string>
+    <string name="food.list.weight.label">Váha (g):&#160;</string>
+    <string name="food.detail.category.itemize.placeholder.label">Kategorie:&#160;%s</string>
+    <string name="food.list.loading.label">Prosím strpení</string>
+    <string name="food.detail.nutrients.itemize.label">Živiny na 100g:</string>
+    <string name="food.detail.nutrients.table.title.label">Živina</string>
+    <string name="food.detail.nutrients.table.unit.label">Jednotky</string>
+    <string name="food.detail.nutrients.table.value.label">Hodnota</string>
+    <string name="default.label">Text</string>
+    <string name="food.add.dialog.title">Zadejte váhu Vašeho jídla v gramech</string>
+    <string name="u.sure.dialog.title">Jste si jist?</string>
+    <string name="u.sure.dialog.message">Opravdu chcete smazat tuto položku diáře?</string>
+    <string name="settings.localization.label">Jazyk :</string>
+    <string name="settings.localization.czech.label">Čestina</string>
+    <string name="settings.localization.english.label">Angličtina</string>
+
+    <!-- Errors -->
+    <string name="food.insert.null.error">Něco se bohužel pokazilo během ukládání Vašeho jídla, prosím zkuste to znovu.</string>
+
+    <!-- Extras -->
+    <string name="menu.search.query">searchQuery</string>
+
+    <!-- Toasts -->
+    <string name="food.list.pagination.null.toast">Omlouváme se, něco se pokazilo. Prosím zkuste vyhledávání ještě jednou.</string>
+
+</resources>

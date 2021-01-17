@@ -1,0 +1,52 @@
+<resources>
+
+    <string name="app_name">Nutrition tracker</string>
+
+    <!-- Titles -->
+    <string name="title_item_detail">Item Detail</string>
+    <string name="activity.main.title">Nutrition tracker</string>
+    <string name="activity.diary.title">Diary</string>
+    <string name="activity.diary.detail.title">Diary detail</string>
+    <string name="activity.settings.detail.title">Settings</string>
+
+    <!-- Buttons -->
+    <string name="menu.search.title">Search</string>
+    <string name="menu.history.title">Diary</string>
+    <string name="menu.settings.title">Settings</string>
+    <string name="food.list.button.next_page"><u>Next Page</u></string>
+    <string name="food.add.dialog.confirm">Add</string>
+    <string name="food.add.dialog.reject">Close</string>
+    <string name="u.sure.dialog.confirm">Yes</string>
+    <string name="u.sure.dialog.reject">No</string>
+
+    <!-- Labels -->
+    <string name="main.activity.title">Welcome to Nutrition tracker!</string>
+    <string name="main.activity.label">Please use menu to navigate throughout the application</string>
+    <string name="menu.search.query.hint.label">Search for your food</string>
+    <string name="food.list.category.label">Category:&#160;</string>
+    <string name="food.list.inserted.label">Added:&#160;</string>
+    <string name="food.list.weight.label">Weight (g):&#160;</string>
+    <string name="food.detail.category.itemize.placeholder.label">Category:&#160;%s</string>
+    <string name="food.list.loading.label">Please wait</string>
+    <string name="food.detail.nutrients.itemize.label">Nutrients per 100g:</string>
+    <string name="food.detail.nutrients.table.title.label">Nutrient</string>
+    <string name="food.detail.nutrients.table.unit.label">Units</string>
+    <string name="food.detail.nutrients.table.value.label">Value</string>
+    <string name="default.label">Text</string>
+    <string name="food.add.dialog.title">Select weight of your food in grams</string>
+    <string name="u.sure.dialog.title">Are you sure?</string>
+    <string name="u.sure.dialog.message">Do you want do delete this diary record?</string>
+    <string name="settings.localization.label">Language :</string>
+    <string name="settings.localization.czech.label">Czech</string>
+    <string name="settings.localization.english.label">English</string>
+
+    <!-- Errors -->
+    <string name="food.insert.null.error">Ups, something went wrong during saving new food to your diary, please try that again.</string>
+
+    <!-- Extras -->
+    <string name="menu.search.query">searchQuery</string>
+
+    <!-- Toasts -->
+    <string name="food.list.pagination.null.toast">Sorry, something went wrong. Please initiate your search one more time.</string>
+
+</resources>
