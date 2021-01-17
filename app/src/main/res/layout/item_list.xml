@@ -14,7 +14,7 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/item_list"
-        android:name="cz.tul.masterdetailteachers.ItemListFragment"
+        android:name="cz.tul.nutritiontracker.ItemListFragment"
         android:layout_width="match_parent"
         android:layout_height="462dp"
         android:layout_marginLeft="16dp"

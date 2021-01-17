@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "cz.tul.masterdetailteachers"
+        applicationId "cz.tul.nutritiontracker"
         minSdkVersion 24
         targetSdkVersion 30
         versionCode 1
